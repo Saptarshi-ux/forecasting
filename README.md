@@ -13,6 +13,10 @@ This project demonstrates **zero-shot forecasting**, where a pre-trained time se
 
 Unlike traditional econometric or ML models, this approach directly leverages **learned representations of time series patterns**.
 
+
+<img width="1902" height="744" alt="code" src="https://github.com/user-attachments/assets/10426387-19e0-4935-8bee-f6db93b00389" />
+
+
 ---
 
 ##  What is Zero-Shot Forecasting?
